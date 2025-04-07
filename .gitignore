@@ -28,3 +28,6 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+
+# Unplugin-vue-router generate
+typed-router.d.ts
