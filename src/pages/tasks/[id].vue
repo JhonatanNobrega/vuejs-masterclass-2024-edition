@@ -1,7 +1,5 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div>
-    <h1>Page HomeView</h1>
-  </div>
+  <div>Task</div>
 </template>
